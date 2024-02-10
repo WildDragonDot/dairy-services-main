@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Organic Whole Milk",
+    "price": 3.99,
+    "description": "Organic whole milk from grass-fed cows. Rich in nutrients and natural taste.",
+    "image": "https://via.placeholder.com/150",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "title": "Artisan Cheddar Cheese",
+    "price": 7.45,
+    "description": "Aged cheddar cheese from local artisan cheesemakers. Sharp and savory flavor.",
+    "image": "https://via.placeholder.com/150",
+    "rating": 4.9
+  },
+  {
+    "id": 3,
+    "title": "Greek Yogurt",
+    "price": 4.99,
+    "description": "Thick and creamy Greek yogurt, sourced from non-GMO, grass-fed cows.",
+    "image": "https://via.placeholder.com/150",
+    "rating": 4.7
+  }
+]
